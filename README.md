@@ -1,4 +1,4 @@
-#使用方法
+#使用方法\r
 #示例
 #返回结果为json格式
 python3 ipcheckjson.py repl postgres postgres 192.168.0.101 5432
